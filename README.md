@@ -6,7 +6,7 @@
 
 > ~~Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement]( https://github.blog/2022-06-08-sunsetting-atom/)~~ **NOPE**
 
-## About Atom, the editor that Microsoft kileed:
+## About Atom, the editor that Microsoft killed:
 
 Atom is a hackable text editor for the 21st century, built on [Electron](https://github.com/electron/electron), and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
 
