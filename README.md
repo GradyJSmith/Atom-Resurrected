@@ -1,8 +1,12 @@
-# Atom
+# Atom Resurected
+
+**I know, we all miss atom, but my goal is to bring it back just as amazing as it was before... or even better.**
 
 [![Build status](https://dev.azure.com/github/Atom/_apis/build/status/Atom%20Production%20Branches?branchName=master)](https://dev.azure.com/github/Atom/_build/latest?definitionId=32&branchName=master)
 
-> Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+> ~~Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement]( https://github.blog/2022-06-08-sunsetting-atom/)~~ **NOPE**
+
+## About Atom, the editor that Microsoft kileed:
 
 Atom is a hackable text editor for the 21st century, built on [Electron](https://github.com/electron/electron), and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
 
@@ -76,12 +80,12 @@ repeat these steps to upgrade to future releases.
 * [macOS](https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-mac)
 * [Windows](https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-windows)
 
-## Discussion
-
-* Discuss Atom on [GitHub Discussions](https://github.com/atom/atom/discussions)
 
 ## License
 
 [MIT](https://github.com/atom/atom/blob/master/LICENSE.md)
 
 When using the Atom or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+
+
+# LETS BRING ATOM BACK!
